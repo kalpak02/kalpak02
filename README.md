@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=KALPAK%20BURADKAR&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?&height=250&text=KALPAK%20BURADKAR&fontSize=45&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Full+Stack+Developer;Cybersecurity+Learner;Open+Source+Contributor;AI+%2B+Systems+Builder;Chess+%7C+Philosophy+%7C+Anime+%7C+Coding" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Full+Stack+Developer;Cybersecurity+Learner;Open+Source+Contributor;AI+%2B+Systems+Builder;Chess+%7C+Philosophy+%7C+Anime+%7C+Coding" />
 
 <br>
 
