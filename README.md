@@ -94,7 +94,7 @@ CurrentProjects:
 
 <div align="center">
 
-# 🎯 CURRENT LEARNING PATH
+#  CURRENT LEARNING PATH
 
 ```yaml
 Learning:
@@ -117,7 +117,7 @@ AnimeInspiredMindset:
 
 <div align="center">
 
-# 🌐 CONNECT
+#  CONNECT
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalpak02)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kalpak_02/)
