@@ -179,7 +179,7 @@ const kalpak = {
 
 <div align="center">
 
-# ⚡ CURRENTLY BUILDING ⚡
+#  CURRENTLY BUILDING 
 
 </div>
 
@@ -204,7 +204,7 @@ CurrentProjects:
 
 <div align="center">
 
-# 🧠 TECH STACK & CYBER ARSENAL
+#  TECH STACK & CYBER ARSENAL
 
 </div>
 
@@ -239,7 +239,7 @@ CurrentProjects:
 
 <div align="center">
 
-# 📊 GITHUB STATS
+#  GITHUB STATS
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -283,7 +283,7 @@ AnimeInspiredMindset:
 
 <div align="center">
 
-# 🌐 CONNECT
+#  CONNECT
 
 <div align="center">
 
