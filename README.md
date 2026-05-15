@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=KALPAK%20BURADKAR&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:020024,50:090979,100:000428"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=KALPAK%20BURADKAR&fontSize=45&fontColor=ffffff"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Full+Stack+Developer;Cybersecurity+Learner;Open+Source+Contributor;AI+%2B+Systems+Builder;Chess+%7C+Philosophy+%7C+Anime+%7C+Coding" />
 
@@ -15,7 +15,7 @@
 
 ---
 
-# 🚀 STEP_IN :
+#  STEP_IN :
 
 ```js
 const kalpak = {
@@ -69,32 +69,26 @@ CurrentProjects:
 
 </div>
 
+<div align="center">
+
 ### Languages
+
 ![](https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript)
 
 ### Frontend
+
 ![](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap)
 
 ### Backend & Database
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres)
+
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgress)
 
 ### DevOps & Tools
-![](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,kubernetes)
 
----
+![](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,kubernates)
 
-<div align="center">
-
-# 📊 GITHUB STATS
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalpak02&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpak02&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpak02&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 <div align="center">
