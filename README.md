@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api&height=250&text=KALPAK%20BURADKAR&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=KALPAK%20B.&animation=fadeIn&textBg=false"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Full+Stack+Developer;Cybersecurity+Learner;Open+Source+Contributor;AI+%2B+Systems+Builder;Chess+%7C+Philosophy+%7C+Anime+%7C+Coding" />
 
 <br>
 
@@ -20,14 +19,13 @@
 ```js
 const kalpak = {
     name: "Kalpak Buradkar",
-    role: "Full Stack Developer + Systems Builder",
+    role: "Full Stack Developer r",
     education: "B.Tech CSE",
-    language: ["C++", "JavaScript", "Python"],
+    language: ["C++", "TypeScript", "Python"],
     specialization: [
-        "Web Development",
-        "Operating Systems",
+        "Full stack Development",
         "Cybersecurity",
-        "AI Systems",
+        "Devops",
         "Open Source"
     ],
     currentMission: "Building projects beyond university level",
@@ -40,7 +38,7 @@ const kalpak = {
 
 <div align="center">
 
-# ⚡ CURRENTLY BUILDING ⚡
+# CURRENTLY :: 
 
 </div>
 
@@ -65,7 +63,7 @@ CurrentProjects:
 
 <div align="center">
 
-# 🧠 TECH STACK & CYBER ARSENAL
+#  TECH STACK ::
 
 </div>
 
