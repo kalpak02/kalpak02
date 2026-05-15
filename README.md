@@ -7,9 +7,6 @@
   "education": "B.Tech CSE",
   "internships": ["Vault of Codes", "Elevate Labs"],
   "philosophy": "Build, automate, secure."
-}
-
-React Node.js Python Docker Kubernetes Terraform AWS Burp Suite Metasploit Nmap Wireshark Kali Linux
 
 https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
@@ -21,3 +18,7 @@ https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoCol
 https://img.shields.io/badge/Metasploit-00A4EF?style=flat&logo=metasploit&logoColor=white
 https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white
 https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white
+}
+
+
+
