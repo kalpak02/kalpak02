@@ -28,9 +28,12 @@ const kalpak = {
         "Devops",
         "Open Source"
     ],
-    currentMission: "Building projects beyond university level",
-    projects: [],
-    mindset: "Build. Break. Learn. Repeat."
+    currentMission: "Exploring And Contributing To New Things",
+    projects: [
+               "Log aggregation and observability application",
+                "System Design Simulator"
+    ],
+    
 };
 ```
 
@@ -48,10 +51,10 @@ OpenSource:
   Role: "Contributor"
 
 Focus:
-  - AI Agents
-  - DevOps
   - Full Stack Development
+  - DevOps
   - Cybersecurity
+  - AI
   - System Design
 
 CurrentProjects:
