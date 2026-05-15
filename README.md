@@ -9,7 +9,6 @@
 ![](https://img.shields.io/badge/B.Tech-CSE-111111?style=for-the-badge&logo=academia&logoColor=white)
 ![](https://img.shields.io/badge/Open%20Source-GSSoC-ff3c78?style=for-the-badge)
 ![](https://img.shields.io/badge/Focus-AI%20%2B%20Systems-00ff88?style=for-the-badge)
-![](https://img.shields.io/badge/Building-LeetCode%20Clone-ffaa00?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Maharashtra-3366ff?style=for-the-badge)
 
 </div>
