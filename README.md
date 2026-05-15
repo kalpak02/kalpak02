@@ -16,7 +16,7 @@
 
 ---
 
-# `> SYSTEM_INIT : WHOAMI`
+# `> STEP_IN :`
 
 ```js
 const kalpak = {
@@ -62,17 +62,14 @@ OpenSource:
 
 Focus:
   - AI Agents
-  - Cybersecurity
-  - Operating Systems
+  - Devops
   - Full Stack Development
+  - Cybersecurity
   - System Design
 
 CurrentProjects:
-  - "64-bit OS using C++"
-  - "LeetCode Clone"
-  - "Docker Sandbox Execution Engine"
-  - "Competitive Coding Platform"
-  - "Stock Market Analysis System"
+  - Log Aggregation and Observability Platform
+  - System Design Platform
 ```
 
 ---
@@ -95,20 +92,20 @@ CurrentProjects:
 
 ### Backend & Database
 
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgress)
 
 ### DevOps & Tools
 
-![](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman)
+![](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,kubernates)
 
-### Cybersecurity
+//### Cybersecurity
 
-![](https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge)
-![](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge)
-![](https://img.shields.io/badge/Nmap-111111?style=for-the-badge)
-![](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge)
-![](https://img.shields.io/badge/OWASP%20ZAP-111111?style=for-the-badge)
-![](https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge)
+//![](https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge)
+//![](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge)
+//![](https://img.shields.io/badge/Nmap-111111?style=for-the-badge)
+//![](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge)
+//![](https://img.shields.io/badge/OWASP%20ZAP-111111?style=for-the-badge)
+//![](https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge)
 
 </div>
 
@@ -116,31 +113,7 @@ CurrentProjects:
 
 <div align="center">
 
-# 🚀 FEATURED PROJECTS
 
-</div>
-
-```txt
-[1] 64-bit Operating System
-    └── Built using C++
-    └── Low-level memory & kernel concepts
-
-[2] LeetCode Clone
-    └── Docker-based sandbox execution
-    └── Real-time code execution system
-
-[3] Chess.com Clone
-    └── Multiplayer architecture
-    └── Next.js + MongoDB + JWT
-
-[4] CodeBattle
-    └── Competitive coding platform
-    └── Real-time challenges + leaderboard
-
-[5] Compiler Project
-    └── Lexer + parser + grammar handling
-    └── Mini programming language in C++
-```
 
 ---
 
@@ -167,9 +140,7 @@ CurrentProjects:
 ```yaml
 Learning:
   - Advanced C++
-  - Operating Systems Internals
   - AI Agents
-  - Compiler Design
   - DevOps
   - Distributed Systems
   - Cybersecurity
@@ -180,24 +151,12 @@ Learning:
 AnimeInspiredMindset:
   - "Total Concentration"
   - "Continuous Evolution"
-  - "Discipline > Motivation"
 ```
 
 ---
 
 <div align="center">
 
-# 🌌 PHILOSOPHY
-
-</div>
-
-```txt
-"I don't want to code only for grades.
-
-I want to build systems,
-understand machines deeply,
-create products that matter,
-and master technology beyond limits."
 ```
 
 ---
@@ -206,9 +165,9 @@ and master technology beyond limits."
 
 # 🌐 CONNECT
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kalpak02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kalpak_02/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/)
 
 </div>
