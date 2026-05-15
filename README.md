@@ -1,24 +1,226 @@
-// kalpak@kali:~$ whoami
+<div align="center">
 
-```json
-{
-  "name": "Kalpak Burradkar",
-  "role": "Full Stack Dev · DevOps · Cybersecurity",
-  "education": "B.Tech CSE",
-  "internships": ["Vault of Codes", "Elevate Labs"],
-  "philosophy": "Build, automate, secure."
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=KALPAK%20BURADKAR&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f0f0f,50:00ff88,100:0f0f0f"/>
 
-https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
-https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white
-https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white
-https://img.shields.io/badge/Metasploit-00A4EF?style=flat&logo=metasploit&logoColor=white
-https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white
-https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white
-}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Full+Stack+Developer;Cybersecurity+Learner;Open+Source+Contributor;AI+%2B+Systems+Builder;Building+Operating+Systems+in+C%2B%2B;Chess+%7C+Philosophy+%7C+Anime+%7C+Coding" />
 
+<br>
+
+![](https://img.shields.io/badge/B.Tech-CSE-111111?style=for-the-badge&logo=academia&logoColor=white)
+![](https://img.shields.io/badge/Open%20Source-GSSoC-ff3c78?style=for-the-badge)
+![](https://img.shields.io/badge/Focus-AI%20%2B%20Systems-00ff88?style=for-the-badge)
+![](https://img.shields.io/badge/Building-LeetCode%20Clone-ffaa00?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Maharashtra-3366ff?style=for-the-badge)
+
+</div>
+
+---
+
+# `> SYSTEM_INIT : WHOAMI`
+
+```js
+const kalpak = {
+    name: "Kalpak Buradkar",
+    role: "Full Stack Developer + Systems Builder",
+    education: "B.Tech CSE",
+    language: ["C++", "JavaScript", "Python"],
+    specialization: [
+        "Web Development",
+        "Operating Systems",
+        "Cybersecurity",
+        "AI Systems",
+        "Open Source"
+    ],
+
+    currentMission: "Building projects beyond university level",
+
+    projects: [
+        "64-bit Operating System in C++",
+        "LeetCode Clone with Docker Sandbox",
+        "Chess.com Clone",
+        "CodeBattle - Competitive Coding App",
+        "Stock Market Analysis Platform",
+        "Compiler for Mini Programming Language"
+    ],
+
+    mindset: "Build. Break. Learn. Repeat."
+};
+```
+
+---
+
+<div align="center">
+
+# ⚡ CURRENTLY BUILDING ⚡
+
+</div>
+
+```yaml
+OpenSource:
+  Program: "GSSoC 2026"
+  Role: "Contributor"
+
+Focus:
+  - AI Agents
+  - Cybersecurity
+  - Operating Systems
+  - Full Stack Development
+  - System Design
+
+CurrentProjects:
+  - "64-bit OS using C++"
+  - "LeetCode Clone"
+  - "Docker Sandbox Execution Engine"
+  - "Competitive Coding Platform"
+  - "Stock Market Analysis System"
+```
+
+---
+
+<div align="center">
+
+# 🧠 TECH STACK & CYBER ARSENAL
+
+</div>
+
+<div align="center">
+
+### Languages
+
+![](https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript)
+
+### Frontend
+
+![](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap)
+
+### Backend & Database
+
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+
+### DevOps & Tools
+
+![](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman)
+
+### Cybersecurity
+
+![](https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge)
+![](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge)
+![](https://img.shields.io/badge/Nmap-111111?style=for-the-badge)
+![](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge)
+![](https://img.shields.io/badge/OWASP%20ZAP-111111?style=for-the-badge)
+![](https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 FEATURED PROJECTS
+
+</div>
+
+```txt
+[1] 64-bit Operating System
+    └── Built using C++
+    └── Low-level memory & kernel concepts
+
+[2] LeetCode Clone
+    └── Docker-based sandbox execution
+    └── Real-time code execution system
+
+[3] Chess.com Clone
+    └── Multiplayer architecture
+    └── Next.js + MongoDB + JWT
+
+[4] CodeBattle
+    └── Competitive coding platform
+    └── Real-time challenges + leaderboard
+
+[5] Compiler Project
+    └── Lexer + parser + grammar handling
+    └── Mini programming language in C++
+```
+
+---
+
+<div align="center">
+
+# 📊 GITHUB STATS
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎯 CURRENT LEARNING PATH
+
+</div>
+
+```yaml
+Learning:
+  - Advanced C++
+  - Operating Systems Internals
+  - AI Agents
+  - Compiler Design
+  - DevOps
+  - Distributed Systems
+  - Cybersecurity
+  - Economics
+  - Philosophy
+  - Chess
+
+AnimeInspiredMindset:
+  - "Total Concentration"
+  - "Continuous Evolution"
+  - "Discipline > Motivation"
+```
+
+---
+
+<div align="center">
+
+# 🌌 PHILOSOPHY
+
+</div>
+
+```txt
+"I don't want to code only for grades.
+
+I want to build systems,
+understand machines deeply,
+create products that matter,
+and master technology beyond limits."
+```
+
+---
+
+<div align="center">
+
+# 🌐 CONNECT
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0f0f,50:00ff88,100:0f0f0f"/>
+
+### ⚡ BUILD • BREAK • LEARN • REPEAT ⚡
+
+</div>
 
 
