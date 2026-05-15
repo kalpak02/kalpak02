@@ -1,24 +1,23 @@
-## Hi ,i am kalpak
+// kalpak@kali:~$ whoami
 
-> 🔭 I’m currently working on personal projects.
-> 🌱 I’m currently learning advance cpp concepts.
+```json
+{
+  "name": "Kalpak Burradkar",
+  "role": "Full Stack Dev · DevOps · Cybersecurity",
+  "education": "B.Tech CSE",
+  "internships": ["Vault of Codes", "Elevate Labs"],
+  "philosophy": "Build, automate, secure."
+}
 
+React Node.js Python Docker Kubernetes Terraform AWS Burp Suite Metasploit Nmap Wireshark Kali Linux
 
-Languages and skills:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
-<!--
-**kalpak02/kalpak02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-> 🔭 I’m currently working on personal projects
->🌱 I’m currently learning advance cpp concepts.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
+https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white
+https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white
+https://img.shields.io/badge/Metasploit-00A4EF?style=flat&logo=metasploit&logoColor=white
+https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white
+https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white
